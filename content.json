@@ -1,4 +1,7 @@
 {
+  "inReview":1,
+  "url":"https://qm.qq.com/q/DHFfFsfk08",
+  "uri":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=3322404&authSig=MuW429NCrb3/NskhvdL4hwKtmUZNz/U1wb0uM7eZ+47JxkW6MEIox9tUceRRGbxE&card_type=group&source=external&jump_from=webapi"
   "schemaVersion": 1,
   "app": {
     "name": "球球旋转网球",
