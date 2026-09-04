@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "app": {
+    "name": "球球旋转网球",
+    "tagline": "30 天，从零打上球场。",
+    "contentVersion": "2026.09.04"
+  },
+  "home": {
+    "eyebrow": "你的口袋网球教学助手",
+    "headline": "从零开始，打好基础。",
+    "plan": {
+      "title": "30 天网球入门",
+      "dayLabel": "Day 07",
+      "detail": "今日是第 7 天 · 已完成 6 天",
+      "progress": 0.23,
+      "buttonTitle": "开始今日学习"
+    },
+    "sections": {
+      "learningPath": { "title": "学习路径", "detail": "5 个阶段" },
+      "todayPractice": { "title": "今日练习", "detail": "25 分钟" },
+      "tools": { "title": "练习工具", "detail": "上场就能用" }
+    },
+    "stages": [
+      { "title": "零基础准备", "detail": "握拍、站位、球感与装备", "progress": "8 / 10", "image": "checkmark.circle.fill" },
+      { "title": "底线技术", "detail": "正手、反手与移动步伐", "progress": "3 / 10", "image": "circle.lefthalf.filled" },
+      { "title": "发球与截击", "detail": "发球抛球、截击和上网", "progress": "锁定", "image": "lock.fill" },
+      { "title": "规则与战术", "detail": "计分、站位与简单战术", "progress": "锁定", "image": "lock.fill" },
+      { "title": "球场实战", "detail": "热身、对拉与赛后复盘", "progress": "锁定", "image": "lock.fill" }
+    ],
+    "tasks": [
+      { "title": "颠球 60 秒", "detail": "热身 · 轻松找到球感" },
+      { "title": "准备姿势自测 10 次", "detail": "站位 · 重心保持稳定" },
+      { "title": "正手挥拍 20 次", "detail": "动作 · 记住击球点" },
+      { "title": "对墙正手 50 球", "detail": "控制 · 让回球弧线稳定" },
+      { "title": "脚步分腿垫步 3 组", "detail": "移动 · 准备每一次来球" }
+    ],
+    "tools": [
+      { "title": "计数器", "image": "plus.circle" },
+      { "title": "间歇计时", "image": "timer" },
+      { "title": "命中率", "image": "target" }
+    ]
+  },
+  "review": {
+    "intro": "把收藏的知识，变成场上的本能。",
+    "progress": "今日已复习 2 条 · 连续 6 天",
+    "searchPlaceholder": "搜索握拍、站位、规则",
+    "segments": ["我的收藏", "易错点"],
+    "favorites": [
+      { "key": "continental", "title": "什么是大陆式握拍？", "answer": "虎口对准拍柄上方的斜面，拇指和食指形成自然的 V 字。发球、截击和准备姿势都可以从它开始。" },
+      { "key": "ready", "title": "准备姿势最重要的三个细节？", "answer": "双脚与肩同宽、膝盖微屈、拍子放在身体前方。先稳定，再移动。" },
+      { "key": "contact", "title": "正手击球点应该在哪里？", "answer": "击球点在身体前侧，手臂自然伸展但不要锁死手肘，让拍面朝向目标。" },
+      { "key": "split-step", "title": "什么时候做分腿垫步？", "answer": "在对手击球前后做轻盈的小跳，让双脚同时落地并保持膝盖微屈，这样可以更快向左右启动。" },
+      { "key": "follow-through", "title": "正手挥拍结束后拍子在哪里？", "answer": "拍子自然收至非持拍侧肩膀附近，身体转动完成，不要为了追求大动作而拉扯手臂。" },
+      { "key": "serve-toss", "title": "发球抛球的高度怎么控制？", "answer": "抛球应略高于最高击球点，让身体有时间伸展，不要把球抛到身后或靠近头顶正上方。" },
+      { "key": "tennis-footwear", "title": "网球鞋和普通跑鞋有什么区别？", "answer": "网球鞋更强调横向支撑和急停稳定性。初学者应优先选择合脚、有侧向支撑的鞋款。" },
+      { "key": "recovery", "title": "击球后为什么要回到准备位置？", "answer": "回位能覆盖更多角度，避免下一球只能被动追赶。击球完成后先恢复平衡，再回到合理站位。" }
+    ],
+    "mistakes": [
+      { "key": "wrist", "title": "挥拍时手腕要不要主动甩？", "answer": "入门阶段不要主动甩腕。先用身体转动和稳定拍面把球送出去，避免动作失控。" },
+      { "key": "bounce", "title": "为什么总是在球落地前急着挥拍？", "answer": "提前判断落点，保持小碎步，等球进入舒适击球区再出拍。" },
+      { "key": "score", "title": "网球计分为什么是 15、30、40？", "answer": "一局中每分依次记为 15、30、40；40 平后再赢一分获得局点，连续赢两分才能拿下这一局。" },
+      { "key": "arm-only", "title": "为什么不能只用手臂打球？", "answer": "只用手臂容易失去稳定和力量。先转髋带动肩膀，再让手臂顺势挥拍，动作会更轻松。" },
+      { "key": "open-stance", "title": "开放式站位是不是永远更好？", "answer": "开放式适合快速来球和防守，但慢球或有时间时也可以使用半开放或关闭式站位，关键是保持平衡。" },
+      { "key": "net-height", "title": "为什么回球总是下网？", "answer": "检查击球点是否太晚、拍面是否过度关闭，并给球留出安全过网高度。" },
+      { "key": "grip-tight", "title": "握拍是不是越紧越稳定？", "answer": "握拍过紧会限制拍头速度。准备时保持轻松，击球瞬间短暂稳定即可。" },
+      { "key": "serve-rush", "title": "发球为什么总是急着击球？", "answer": "先完成稳定抛球，再做屈膝、蹬地和挥拍。节奏比一味追求力量更重要。" }
+    ]
+  },
+  "lesson": {
+    "category": "零基础准备",
+    "title": "握拍与准备姿势",
+    "imageName": "lesson-illustration",
+    "accessibilityLabel": "握拍和网球准备姿势示意图",
+    "pointsTitle": "本课要点",
+    "progressTitle": "阅读进度",
+    "stepPrefix": "步骤",
+    "progressPrefix": "本课共",
+    "progressSuffix": "步",
+    "completionText": "完成本课，明天继续保持手感。",
+    "continueTitle": "继续学习",
+    "completeTitle": "今日课程已完成",
+    "steps": [
+      { "title": "正确的握拍方式", "body": "大陆式握拍：让拇指与食指形成 V 字，拍面自然立起。" },
+      { "title": "身体面向球场", "body": "双脚与肩同宽，脚尖朝向前方，身体保持开放和放松。" },
+      { "title": "膝盖微屈，重心放低", "body": "保持脚跟有弹性，重心落在前脚掌，随时准备向两侧移动。" },
+      { "title": "持拍于身前", "body": "让拍头位于身体前方，非持拍手扶住拍喉，保持肩膀放松。" },
+      { "title": "眼睛跟随来球", "body": "先看球的飞行路线和落点，再移动脚步，避免只盯着自己的拍面。" },
+      { "title": "完成准备姿势自测", "body": "连续完成 10 次：握拍、站位、屈膝、持拍，然后开始今天的练习。" }
+    ],
+    "points": [
+      "正确的握拍方式：大陆式握拍",
+      "身体面向球场，双脚与肩同宽",
+      "膝盖微屈，重心放低，保持放松",
+      "持拍于身前，拍面自然竖起",
+      "眼睛跟随来球，脚步先于手臂移动",
+      "完成 10 次准备姿势自测再开始练习"
+    ],
+    "court": {
+      "eyebrow": "站位示意",
+      "hint": "站在底线后\n准备迎接来球",
+      "accessibilityLabel": "从底线后准备迎球的球场站位图"
+    }
+  },
+  "profile": {
+    "intro": "每一次练习，都会留下进步的痕迹。",
+    "journeyTitle": "我的 30 天入门旅程",
+    "stats": [
+      { "value": "Day 07", "label": "当前进度" },
+      { "value": "6 天", "label": "连续打卡" },
+      { "value": "86 分", "label": "练习时长" }
+    ],
+    "achievementSectionTitle": "我的成就",
+    "achievementSectionDetail": "已点亮 3 枚",
+    "achievements": [
+      { "title": "第一课", "image": "book.fill" },
+      { "title": "连续 6 天", "image": "flame.fill" },
+      { "title": "球感启蒙", "image": "star.fill" }
+    ],
+    "menuSectionTitle": "常用入口",
+    "menuSectionDetail": "免登录即可使用",
+    "menuItems": [
+      { "title": "学习记录", "detail": "查看课程与练习历史", "image": "chart.bar.xaxis" },
+      { "title": "我的收藏", "detail": "复习已收藏知识", "image": "bookmark.fill" },
+      { "title": "练习工具", "detail": "计数、计时、命中率", "image": "wrench.and.screwdriver" },
+      { "title": "设置", "detail": "通知、隐私与购买恢复", "image": "gearshape.fill" }
+    ],
+    "studyRecordMessage": "已完成 6 节课程，累计练习 86 分钟。继续保持，下一步是反手基础。"
+  },
+  "tools": {
+    "intro": "球场边的三个小工具，帮你把练习做完整。",
+    "tabs": ["颠球计数", "间歇计时"],
+    "counterSubtitle": "每次触球都算进进步里",
+    "timerSubtitle": "颠球、步伐、挥拍，专注当下这一组",
+    "countButtonTitle": "+1 次",
+    "countResetTitle": "重置",
+    "timerStartTitle": "开始计时",
+    "timerResumeTitle": "继续计时",
+    "timerPauseTitle": "暂停计时",
+    "timerCompleteTitle": "完成",
+    "timerResetTitle": "重置 60 秒",
+    "accuracyTitle": "发球命中率自记",
+    "hitTitle": "命中 +1",
+    "missTitle": "失误 +1"
+  }
+}
